@@ -1,8 +1,8 @@
-# Problem: Max-Heap Verification
+# Question: Max-Heap Verification
 
 (Time Limit: 1 second, Memory Limit: 256 megabytes)
 
-Problem Description:
+Question Description:
 
 Given an array, determine whether it represents a max-heap.
 
