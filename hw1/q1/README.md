@@ -1,7 +1,6 @@
 # Problem: Max-Heap Verification
 
-Time Limit: 1 second
-Memory Limit: 256 megabytes
+(Time Limit: 1 second, Memory Limit: 256 megabytes)
 
 Problem Description:
 
