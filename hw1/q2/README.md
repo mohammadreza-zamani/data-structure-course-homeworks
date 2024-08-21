@@ -1,4 +1,4 @@
-# Question:: Finding the Next Greater Element
+# Question: Finding the Next Greater Element
 
 (Time Limit: 1 second, Memory Limit: 256 megabytes)
 
